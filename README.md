@@ -1,7 +1,3 @@
-Hi I am Ali..
-I like to solve problems and build things :)
+Full Stack Web Developer
 
-Python, C#, Java, SQL
-
-
-Websites, Applications and Machine learning
+C#, Asp.Net, Python, Java, SQL
